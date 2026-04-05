@@ -174,3 +174,9 @@ NLP_Project/
 - [Hugging Face](https://huggingface.co) — Transformer models and tokenizers
 - [Scikit-learn](https://scikit-learn.org) — Classical ML and evaluation metrics
 - [PyTorch](https://pytorch.org) — Deep learning framework
+
+---
+
+## Google colab link
+
+https://colab.research.google.com/drive/1SP4T0LAaIsQkrgofREyPrgBVZwbWB3GE?usp=sharing
